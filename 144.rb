@@ -4,7 +4,7 @@ cars = [
     { "make" => "toyota", "model" => "camry", "color" => "blue", "year" => "2020" }
 ]
 
-pp cars[0]["make"]
+pp cars[1]["model"]
 
 students = [
     { "name" => "Maria", "age" => 20, "major" => "Computer Science" },
