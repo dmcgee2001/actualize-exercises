@@ -1,7 +1,8 @@
 # New York City (8.4 million) and San Francisco (800,000).
 city_populations = { "Chicago" => 2700000 }  # (don't change this line)
 # Your code goes here
-city_populations = { "Chicago" => 2700000, "New York City" => 8400000, "San Francisco" => 800000 } 
+city_populations["New York City"] = 8400000
+city_populations["San Francisco"] = 800000
 pp city_populations
 
 
