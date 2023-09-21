@@ -21,5 +21,5 @@ class StoreItem
     end
   end
   
-  Store_Item = StoreItem.new("chair", 100)
-  pp StoreItem
+  store_item = StoreItem.new("chair", 100)
+  pp store_item
