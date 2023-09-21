@@ -1,6 +1,6 @@
 booyeah = 0                # 1
-2.times do                 # 2 10
-  booyeah = booyeah + 1    # 3 11 
+2.times do                 # 2     10
+  booyeah = booyeah + 1    # 3     11 
   3.times do               # 4 6 8 12 14 16
     booyeah = booyeah + 2  # 5 7 9 13 15 17
   end                      
