@@ -3,3 +3,4 @@ color1 = "red"
 color2 = "yellow"
 color3 = "green"
 puts "I like the colors " + color1 + ", " + color2 + ", and " + color3 + "."
+#i definitely did one that was too easy, a harder one next time
