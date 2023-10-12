@@ -1,0 +1,34 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(128, 74, 126)
+}
+main {
+    max-width: 50em;
+    margin: 0 auto;
+    line-height: 1.5;
+    padding: 4em 1em;
+}
+h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+    color: rgb(42, 41, 41);
+}
+
+header {
+    background-image: url(https://img.huffingtonpost.com/asset/5b9e120824000050009551cd.jpeg?ops=scalefit_720_noupscale);
+    background-position-y: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 1,2;
+    padding: 10vw 2em;
+    font-size: 2.5em;
+    font-weight: 300;
+    color: rgb(255, 255, 255);
+    
+}
+footer {
+    text-align: center;
+    background-color: rgb(176, 72, 72);
+    padding: 3em;
+    color: white;
+}
